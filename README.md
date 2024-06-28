@@ -1,5 +1,4 @@
 # Interconnect Robots, Network Experiment, and Wireshark Analysis
-https://github.com/Hassan-Muhammad-Yousuf/Wireless-Robotics-Transition/blob/main/Wireshark%20.mp4
 
 This repository contains the project work for the "Interconnect Robots," "Network Experiment (Real-World or Emulation)," and "Wireshark Analysis and Firewall".
 
