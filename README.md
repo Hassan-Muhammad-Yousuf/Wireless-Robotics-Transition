@@ -1,6 +1,6 @@
 # Interconnect Robots, Network Experiment, and Wireshark Analysis
 
-This repository contains the project work for the "Interconnect Robots," "Network Experiment (Real-World or Emulation)," and "Wireshark Analysis and Firewall" tasks as part of the B205 Computer Networks module.
+This repository contains the project work for the "Interconnect Robots," "Network Experiment (Real-World or Emulation)," and "Wireshark Analysis and Firewall".
 
 ## Project Overview
 
